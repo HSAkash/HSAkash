@@ -21,16 +21,16 @@ A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Re
 
 ### Here are my skills and strengths:
 
-✓  Expert in Machine Learing <br/>
-✓  Expert in  TensorFlow, Pytorch, scikit-learn  <br/>
-✓  Expert in Django Framework && .Net Core  <br/>
-✓  Expert in Robust and Clean server development (using Python) <br/>
-✓  Expert in database design, development, optimization, and migration <br/>
-   (PostgreSQL, MySQL, MongoDB , Redis)<br/>
-✓  Experienced in ( WebSocket, WebRTC ) for real-time client and server applications <br/>
-✓  Experienced in ReactJS Framework & Redux Framework  and some knowledge in ( TypeScript )<br/>
-✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
-   Nginx, Kubernetes )<br/>
+✓ Expert in Machine Learing <br/>
+✓ Expert in TensorFlow, Pytorch, scikit-learn <br/>
+✓ Expert in Django Framework && .Net Core <br/>
+✓ Expert in Robust and Clean server development (using Python) <br/>
+✓ Expert in database design, development, optimization, and migration <br/>
+(PostgreSQL, MySQL, MongoDB , Redis)<br/>
+✓ Experienced in ( WebSocket, WebRTC ) for real-time client and server applications <br/>
+✓ Experienced in ReactJS Framework & Redux Framework and some knowledge in ( TypeScript )<br/>
+✓ Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
+Nginx, Kubernetes )<br/>
 
 <div align="center">
   <a href="https://github.com/HSAkash">
@@ -44,6 +44,5 @@ A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Re
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HSAkash&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
   </div>
-
 
 </div>
