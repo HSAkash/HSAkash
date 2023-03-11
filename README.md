@@ -12,7 +12,7 @@ A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Re
 <a href="https://stackoverflow.com/users/15684785/hemel-akash?tab=profile">
   <img align="center" alt="https://stackoverflow.com/users/15684785/hemel-akash" width="35px"  src="img/stackoverflow.png" />
 </a>
-  <a href="https://twitter.com/shahriarraka7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriarraka7" height="30" width="40" />
+  <a href="https://twitter.com/HSAkash2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriarraka7" height="30" width="40" />
   </a>
 <a href="https://www.kaggle.com/hsakash" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hsakash" height="30" width="40" />
   </a>
