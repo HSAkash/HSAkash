@@ -33,7 +33,13 @@ A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Re
 Nginx, Kubernetes )<br/>
 
 
-
+<div align="center">
+  <a href="https://github.com/HSAkash">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=HSAkash&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSAkash&layout=compact&langs_count=10&theme=dark" />
+</div>
  <div align="center">
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HSAkash&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
