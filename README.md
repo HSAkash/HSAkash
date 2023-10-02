@@ -1,4 +1,8 @@
-<h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! Peace Be Upon You , I'm <a href="https://github.com/HSAkash">Hemel Sharker Akash</a> 🐬 !</h1>
+<h2 align="center" color="white" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px" /> 
+ Hi! Peace Be Upon You, I'm Hemel Sharker Akash 🐬 !
+</h2>
+
+
 <h1 align="center">
 A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Researcher
 </h1>
@@ -31,6 +35,10 @@ A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Re
 ✓ Experienced in ReactJS Framework & Redux Framework and some knowledge in ( TypeScript )<br/>
 ✓ Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
 Nginx, Kubernetes )<br/>
+
+### Publications:
+* Conferences: ***`Hemel Sharker Akash`***, Md Abdur Rahim, Abu Saleh Musa Miah, Yuichi Okuyama, Yoichi Tomioka and Jungpil Shin, “Generalized Technique for Potato Leaves Disease Classification using Convolutional Neural Network,” in 8th International Conference on ICT for Sustainable Development, August 3rd -4th, 2023, Goa, India. [Accepted]
+* Journal: Dr. Onur Alp ilhan,Md Nur Alam, Assoc. Prof.; ***`Hemel Sharker Akash`***, Assoc. Prof.; Imran Talib, Assoc. Prof, “Bifurcation analysis and new exact complex solutions for the nonlinear Schödinger equations with cubic nonlinearity” in Communications in Nonlinear Science and Numerical Simulation [Accepted]
 
 
 <div align="center">
