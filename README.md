@@ -37,8 +37,12 @@ A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Re
 Nginx, Kubernetes )<br/>
 
 ### Publications:
-* Conferences: ***`Hemel Sharker Akash`***, Md Abdur Rahim, Abu Saleh Musa Miah, Yuichi Okuyama, Yoichi Tomioka and Jungpil Shin, “<a href='https://link.springer.com/chapter/10.1007/978-981-99-5652-4_52'>Generalized Technique for Potato Leaves Disease Classification using Convolutional Neural Network</a>” in 8th International Conference on ICT for Sustainable Development, August 3rd -4th, 2023, Goa, India.
-* Journal: Dr. Onur Alp ilhan,Md Nur Alam, Assoc. Prof.; ***`Hemel Sharker Akash`***, Assoc. Prof.; Imran Talib, Assoc. Prof, “Bifurcation analysis and new exact complex solutions for the nonlinear Schödinger equations with cubic nonlinearity” in Communications in Nonlinear Science and Numerical Simulation [Accepted]
+* Conferences: ***`Hemel Sharker Akash`***, Md Abdur Rahim, Abu Saleh Musa Miah, Yuichi Okuyama, Yoichi Tomioka and Jungpil Shin, “Generalized Technique for Potato Leaves Disease Classification using Convolutional Neural Network” in 8th International Conference on ICT for Sustainable Development, August 3rd -4th, 2023, Goa, India.<br/>
+<a href='https://link.springer.com/chapter/10.1007/978-981-99-5652-4_52'>https://link.springer.com/chapter/10.1007/978-981-99-5652-4_52</a>
+* Journal: Md Nur Alam, Onur Alp İlhan, ***`Hemel Sharker Akash`*** , Imran Talib, “Bifurcation analysis and new exact complex solutions for the nonlinear Schrödinger equations with cubic nonlinearity,” in Optical and Quantum Electronics.<br/>
+<a href='https://link.springer.com/article/10.1007/s11082-023-05863-w'>https://link.springer.com/article/10.1007/s11082-023-05863-w</a>
+* Journal: Md. Nur Alam, ***`Hemel Sharker Akash`*** , Uzzal Saha, Md. Shahid Hasan, Mst. Wahida Parvin, Cemil Tunç, “Bifurcation Analysis and Solitary Wave Analysis of the Nonlinear Fractional Soliton Neuron Model,” in Iranian Journal of Science.<br/>
+<a href='https://link.springer.com/article/10.1007/s40995-023-01555-y'>https://link.springer.com/article/10.1007/s40995-023-01555-y</a>
 
 
 <div align="center">
